@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">时间轴</string>
+    <string name="LinearLayoutAddView">动态添加方式</string>
+    <string name="ListView">列表方式</string>
+    <string name="title_activity_activity_linear_layout_demo">ActivityLinearLayoutDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_activity_list_view_demo">ActivityListViewDemo</string>
+
+</resources>
